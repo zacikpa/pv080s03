@@ -1,0 +1,14 @@
+venv
+virtual
+env
+.venv
+
+.mypy_cache/
+
+*.pyo
+*.pyc
+
+.vscode
+
+.ipynb_checkpoints/
+*.ipynb
